@@ -1,18 +1,29 @@
 ---
-layout: stlc-group
 name: dfw-urbanistas
 display_name: DFW Urbanistas
-alias: Urbanistas
-summary: "This is Urbanistas. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+summary: DFW Urbanistas is a collective of women dedicated to advocating for
+  equitable and accessible public transit for all. They host community
+  gatherings every 3rd Thursday at Pegasus Brewery, providing a platform for
+  networking, discussion, and action on transit-related issues. Their work
+  emphasizes inclusivity, urban planning, and collaborative solutions to improve
+  transportation systems.
 logo: /assets/urbanistas-logo.svg
-cover_photo: /assets/urbanistas-group-photo.jpg
-cover_alt: DFW Urbanistas
-featured: true
-masthead_bg_color: "#f99689"
+focus_issues: "Equitable transit, urban design and planning, community
+  engagement, networking "
 masthead_bg_blend_mode: soft-light
+cover_alt: DFW Urbanistas
+is_featured: true
+layout: stlc-group
+cover_photo: /assets/urbanistas-group-photo.jpg
+featured: true
+alias: Urbanistas
+masthead_bg_color: "#f99689"
+focus_area: ""
 masthead_bg_position: top center
-masthead_text_color: white
+website: https://www.instagram.com/urbanistasdfw/
 links:
-    - [ "Instagram @urbanistasdfw", https://www.instagram.com/urbanistasdfw ]
+  - label: Instagram
+    url: https://www.instagram.com/urbanistasdfw/
+masthead_text_color: white
 ---
-Here's the big long descriptive content for Urbanistas. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+DFW Urbanistas is a collective of women dedicated to advocating for equitable and accessible public transit for all. They host community gatherings every 3rd Thursday at Pegasus Brewery, providing a platform for networking, discussion, and action on transit-related issues. Their work emphasizes inclusivity, urban planning, and collaborative solutions to improve transportation systems.
